@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fox67rus
-- 👀 I’m interested in Python, QA, IoT and learning different things
+- 👀 I’m interested in IT, IoT and learning different things
 - 🌱 I’m currently learning QA, Python and English
 
 <!---
