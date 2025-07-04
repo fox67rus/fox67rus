@@ -1,4 +1,9 @@
 # 👋 Привет! Я — Лена @fox67rus
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-4B0082?logo=openai&logoColor=white)
+![Excel Automation](https://img.shields.io/badge/Excel-Automation-green?logo=microsoft-excel)
+![Aiogram](https://img.shields.io/badge/aiogram-3.x-lightgrey)
 
 👀 Я люблю упрощать процессы, автоматизировать рутину и собирать понятные инструменты, которые экономят время.
 
@@ -37,6 +42,13 @@
 - GitHub: [fox67rus](https://github.com/fox67rus)
 
 ---
+
+### 📊 GitHub статистика
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox67rus&layout=compact&theme=dark&hide=Pascal)
+
+---
+
 
 _Спасибо, что заглянули!_  
 Если вы ищете того, кто превращает сложное в понятное, а рутину — в скрипт, вы по адресу 😉
